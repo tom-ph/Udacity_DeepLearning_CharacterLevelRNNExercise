@@ -13,6 +13,7 @@ The model has the following architecture:
 
 ## Training
 The model was trained for 10 epochs using a 0.5 dropout probability for the **LSTM** nodes.
+The final loss was 1.2885.
 
 ## Try it yourself
 You can try the model yourself by cloning this repo and running the **Character_Level_RNN_Exercise.ipynb** notebook.
